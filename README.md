@@ -3,7 +3,7 @@ Installing hacking tools for termux
 
 > Instale ferramentas sem complicaçoes...
 
-Script feito em python que automatiza a instalação de ferramentasno Termux.
+Script feito em python que automatiza a instalação de ferramentas no Termux.
 
 ![](./screenshots/logo.png)
 
