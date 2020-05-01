@@ -1,5 +1,5 @@
-# b3x
-Installing hacking tools for termux
+# b3x - bear bear bear
+Instala ferramentas de hacking no termux
 
 > Instale ferramentas sem complicaçoes...
 
