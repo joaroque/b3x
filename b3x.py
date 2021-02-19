@@ -28,16 +28,16 @@ Tb "$$$$$$$$$$$$$$*uL"$$$$$$$$$$$$$$$$$$$$$$$$$$$$'
      "$$$o#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
      ?$$$W$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" 
 
-[05-2020]═════════[HaguacomH]═════════[V.1.0]$
+[02-2021]═════════[HaguacomH]═════════[V.1.0]$
 
 ==============================================
-00. Install all
+00. Install all tools
 -------------------------------------------
 1.  Install Nmap 
 2.  Install Hydra
 3.  Install SQLMap
 4.  Install Metasploit
-5.  Install ngrok
+5.  Install Ngrok
 6.  Install Kali Nethunter
 7.  Install angryFuzzer
 8.  Install Red_Hawk
