@@ -1,15 +1,14 @@
 # b3x - bear bear bear
-Instala ferramentas de hacking no termux
 
-> Instale ferramentas sem complicaçoes...
+Python script to automate tool installations in Termux
 
-Script feito em python que automatiza a instalação de ferramentas no Termux.
+> Easy... Install hacking tools on your termux!!!
 
 ![](./screenshots/logo.png)
 
 ## Instalação
 
-No terminal digite:
+In terminal type:
 
 ```sh
 git clone https://github.com/joaroquedev/b3x.git
@@ -25,15 +24,15 @@ python3 b3x.py
 
 ## Meta
 
-Joa Roque – [@joaroquedev](https://facebook.com/100025057463273) – haguacomh@gmail.com
+Joa Roque – [@joaroque](https://facebook.com/100025057463273) – haguacomh@gmail.com
 
-[Joa Roque](https://github.com/joaroquedev)
+[Joa Roque](https://github.com/joaroque)
 
-[Programadore Angolano](https://www.programadorangolano.com)
+[Programadore Angolano](https://pangolano.github.io)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/joaroquedev/b3x/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/joaroque/b3x/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
