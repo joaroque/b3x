@@ -2,7 +2,7 @@
 
 Python script to automate tool installations in Termux
 
-> Easy... Install hacking tools on your termux!!!
+> Easy... 
 
 ![](./screenshots/logo.png)
 
@@ -24,8 +24,7 @@ python3 b3x.py
 
 ## Meta
 
-Joa Roque – [@joaroque](https://facebook.com/100025057463273) – haguacomh@gmail.com
-
+Joa Roque – [@joaroque](https://facebook.com/100025057463273)
 [Joa Roque](https://github.com/joaroque)
 
 [Programador Angolano](https://pangolano.github.io)
