@@ -21,10 +21,3 @@ python3 b3x.py
 * __Menu__
 
 ![](./screenshots/menu.png)
-
-## Meta
-
-Joa Roque – [@joaroque](https://facebook.com/100025057463273)
-[Joa Roque](https://github.com/joaroque)
-
-[Programador Angolano](https://pangolano.github.io)
