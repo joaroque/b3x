@@ -11,7 +11,7 @@ Python script to automate tool installations in Termux
 In terminal type:
 
 ```sh
-git clone https://github.com/joaroquedev/b3x.git
+git clone https://github.com/joaroque/b3x.git
 ```
 ```sh
 python3 b3x.py
